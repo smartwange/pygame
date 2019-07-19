@@ -1,0 +1,13 @@
+{% if latest_question_list %}
+    <ul>
+    {% for question in latest_question_list %}
+    <!-- 硬编码 -->
+        <!-- <li><a href="/polls/{{ question.id }}/">{{ question.question_text }}</a></li> -->
+    <!-- 使用%url%结合path中的name值，不管路由怎么变不用再去修改链接地址 -->
+    <!-- polls:通过urls.py 的命名空间定位跳转的位置 -->
+        <li><a href="{%url 'polls:detail' question.id%}">{{ question.question_text }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
