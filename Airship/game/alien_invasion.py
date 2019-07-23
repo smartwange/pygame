@@ -18,5 +18,4 @@ def run_game():
         ship.update()
         '''每次循环时都重绘屏幕，让最近绘制的屏幕可见'''
         gf.update_screen(ai_settings, screen, ship)
-
 run_game()
