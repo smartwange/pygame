@@ -1,0 +1,8 @@
+1、在https://github.com/sshwsfc/xadmin/tree/django2下载 django
+   放在项目根目录
+2、在settings.py的INSTALLED_APPS  添加
+     'crispy_forms',
+    'xadmin.apps.XAdminConfig'
+3、安装xadmin依赖包，详细见requiresments.txt文件
+   pip install -r requiresments.txt
+4、直接执行migrate生成xadmin需要的表

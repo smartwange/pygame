@@ -7,6 +7,7 @@ class Ship():
         self.screen = screen
         self.ai_settings = ai_settings
         # 加载飞船图像并获取其外接矩形
+        # self.image = pygame.image.load(r'D:\object\python\pygame\Airship\game\images\ship.png')
         self.image = pygame.image.load(r'D:\projectForTest\pythonProject\Airship\game\images\ship.png')
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()

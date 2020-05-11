@@ -1,7 +1,474 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b76b972-f7bf-492e-b747-2765db09364d" name="默认的" comment="" />
+    <list default="true" id="4b76b972-f7bf-492e-b747-2765db09364d" name="默认的" comment="默认的">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/pygame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airship/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airship/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airship/game/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Message/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Message/extra_apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Message/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Message/static/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/courses/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/courses/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/courses/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/migrations/0002_auto_20200426_1227.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/operations/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/organizations/adminx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/organizations/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/organizations/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/organizations/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/apps/utils/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/extra_apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/aui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/aui_iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/lq.datetimepick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/mooc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/muke/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/muke/common-less.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/muke/course/common-less.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/muke/course/course-comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/muke/course/learn-less.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/css/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/01_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/01_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/02_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/02_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/57a801860001c34b12000460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/57aa86a0000145c512000460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/about_nav_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/aobama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/arrow_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/authentication.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bank1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bank2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bank3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bank4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bank5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/banner_icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/banner_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/banner_icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/banner_icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bgblack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/billbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/billbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/billboxactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/billcheck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/billcheckg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/bjdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/btn1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/btn2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/btn3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/btn4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/check2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/check3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/check4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/check_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/checkbox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/checked.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/companydes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/companylogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/companyrank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/compright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/contract.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/course.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/diary-edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/dig_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/drop_plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/drop_plus_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/error-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/feature6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/avi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/cdr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/csv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/mp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/ppt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/rar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/txt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/xls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/zip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/filebg/复件 txt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/fold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/footlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/fqy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/g_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/gj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/goback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/group.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/group_recommend.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/gx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/h_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/header_middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/help_index_pic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/homepage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/ht-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-diary-jl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-diary-my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-diary-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-release-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-release-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon-release-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/laba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/list_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/mayun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module1_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module1_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module3_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_4_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module4_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module5_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module5_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module6_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/module6bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/mysql.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/nav_arrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/nav_hot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/njdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/oyf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/path2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/path3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/path4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/path5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/path6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pathbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pathbg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/paypic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/paypic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic403.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pic9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pixel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/plus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/pop-tips-info-arr.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/python-zhengze.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/qhdx-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/qhdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/r_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rankgold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rankgreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/release8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rightform1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rightform2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rightform3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/rolling.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/sass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/scores.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/search_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/select-arr-default.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/select_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/select_arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c1_g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/share_c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/side4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/slide_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/slide_l_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/slide_r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/slide_r_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/star-btn-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/star-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/star-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/tab-jt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/tab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/tel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/tell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/top_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/unfold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/weixi_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/weixi_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/weixi_sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/word403.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/word503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/x_alt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/images/zwj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/cancel-off-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/cancel-on-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/coffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-a-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-b-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-c-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-d-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/face-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/medal-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/medal-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/star-half-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/star-off-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/img/star-on-big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/AdrInputPopDiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/autocomplete-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/deco-comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/deco-common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/deco-user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/fastclick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/fliplightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/fold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jQuery.artTxtCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jcarousel.connected-carousels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery-powerFloat-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery-xmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.autocomplete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.formset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.imagezoom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.jcarousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/jquery.uploadify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/lq.datetimepick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/datePicker/mobiscroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/datePicker/mobiscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/jquery.flexslider-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/jquery.raty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/jquery.scrollLoading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/jquery.timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/jquery.upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/laydate/need/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/laydate/skins/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/laydate/skins/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/extend/layer.ext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/layer/skin/layer.ext.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/css/cityLayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0113_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0113_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0113_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0113_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0130_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/bg_mc_0130_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/images/ts-indexcity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/js/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/js/public2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/js/queryAllAreas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/js/queryAllProvinces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/queryCity/js/queryCities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/plugins/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/selectUi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/unslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/validateDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/js/wechat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/Entity/2016/11/default_middile_14_20161113173158_261.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/Entity/2016/11/default_middile_1_20161113172604_856.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/Entity/ueditor/default_middile_13_20161113185849_453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/57a801860001c34b12000460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/57a801860001c34b12000460_z4Vb8zl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/57aa86a0000145c512000460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/57aa86a0000145c512000460_GXIBATC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/57aa86a0000145c512000460_nMwvoQD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/QQ截图20190626172741.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/banner/2016/11/new_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/course/resource/2016/11/curl_wget.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/course/resource/2016/11/media.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135_MSIqfvw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135_Z3HIQ2t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135_mvvGYHL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135_n0L8vbw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/540e57300001d6d906000338-240-135_wH52IED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/57035ff200014b8a06000338-240-135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/57035ff200014b8a06000338-240-135_0nFiBSI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/57035ff200014b8a06000338-240-135_dHfj8Nq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/default_middile_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/11/mysql.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/57035ff200014b8a06000338-240-135_dHfj8Nq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/5cb9976e08f6b07206000338-360-202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/mysql.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/python文件处理.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/python错误和异常.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/2016/12/python面向对象.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/ueditor/57a801860001c34b12000460_z4Vb8zl_20161210233313_629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/ueditor/57aa86a0000145c512000460_20161210234050_865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/ueditor/aobama_20161113225004_372.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/courses/ueditor/aobama_20161113225044_773.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/11/default_middile_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/11/default_middile_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/11/default_middile_2_WZ1559E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/11/default_middile_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/11/default_middile_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/image/2016/12/default_big_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/bjdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_Gn1sRjp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_OO2ykYP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_V0TJOyb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_Y2Tonsq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_klgAUn5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/imooc_qEaMov1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/njdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/11/qhdx-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/12/bjdx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/12/bjdx_bcd0m07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/12/bjdx_cCpdUw8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/12/imooc_Gn1sRjp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/org/2016/12/imooc_klgAUn5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/teacher/2016/11/aobama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/static/media/teacher/2016/11/aobama_CXWwMef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/course-comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/course-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/course-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/course-play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/course-video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-desc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org-detail-teachers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/org_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/teacher-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/teachers-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-fav-course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-fav-org.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-fav-teacher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MxOnline/templates/usercenter-mycourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/blog/templates/blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/greet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/templates/common/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mark/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heigh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airship/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Airship/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airship/game/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Airship/game/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airship/game/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Airship/game/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airship/game/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Airship/game/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airship/game/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Airship/game/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme" beforeDir="false" afterPath="$PROJECT_DIR$/../readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,35 +478,26 @@
   <component name="FavoritesManager">
     <favorites_list name="test" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="$PROJECT_DIR$/prints.py" />
-        <option value="$PROJECT_DIR$/list.py" />
-        <option value="$PROJECT_DIR$/dictionary.py" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="990" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectId" id="1OrKCT5C5D0Pq1txsWhMHhMsKIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookOOP" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -61,7 +519,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.heigh">
+    <configuration name="heigh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heigh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="prints" type="PythonConfigurationType" factoryName="Python">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +554,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prints.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -83,6 +564,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.heigh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -94,56 +590,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563240665537</updated>
+      <workItem from="1573787064744" duration="1548000" />
+      <workItem from="1573795052101" duration="827000" />
+      <workItem from="1578271775682" duration="39000" />
+      <workItem from="1578271919832" duration="10417000" />
+      <workItem from="1578357775894" duration="3124000" />
+      <workItem from="1580623302973" duration="10734000" />
+      <workItem from="1581561452670" duration="86000" />
+      <workItem from="1581561553259" duration="2975000" />
+      <workItem from="1582511295008" duration="3100000" />
+      <workItem from="1587000246749" duration="16000" />
+      <workItem from="1589016463551" duration="102000" />
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="2">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49790794" visible="true" weight="0.22523117" />
-      <window_info id="Structure" order="1" sideWeight="0.50209206" side_tool="true" weight="0.22523117" />
-      <window_info id="Favorites" order="2" sideWeight="0.50209206" side_tool="true" weight="0.22523117" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
-      <window_info anchor="bottom" id="找到" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.23709902" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993395" visible="true" weight="0.33986014" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32914925" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prints.py" />
-    <entry file="file://$PROJECT_DIR$/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$prints.coverage" NAME="prints Coverage Results" MODIFIED="1573795156688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$heigh.coverage" NAME="heigh Coverage Results" MODIFIED="1581222219338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

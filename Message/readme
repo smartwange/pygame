@@ -1,0 +1,14 @@
+#配置一个html页面显示的步骤:
+#1. 配置url
+#2. 配置对应的views逻辑
+#3. 拆分静态放入到static,html放入到template之下
+   #1. 可以放到对应的app下面
+   #2. 也可以放入到全局的template和static之下
+#4.配置全局的static文件访问路径的配置STATICFILES_DIRS
+
+#新建数据库
+字符集选择utf8 -- UTF-8 Unicode  排序规则: utf8_general_ci
+
+#配置数据库
+1. settings.py文件修改:
+LookupError: No installed app with label 'admin'.
